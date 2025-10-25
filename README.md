@@ -46,7 +46,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Ruby/Rails
 
-- https://github.com/gregstallings/ruby-trivia
 - https://github.com/rishiip/ruby-on-rails-interview-questions
 - http://www.toptal.com/ruby/interview-questions
 - https://gist.github.com/ryansobol/5252653
@@ -57,7 +56,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Javascript
 
-- https://github.com/malachaifrazier/JavaScript-Interview-Questions
 - https://github.com/nishant8BITS/101-JavaScript-Interview-Question
 - https://github.com/kolodny/exercises
 - https://github.com/tenkai/javascriptstudies
@@ -74,7 +72,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm
 
 ## CSS
-- https://github.com/developerquestions/css-questions
 - https://github.com/bargitta/cssInterview
 - https://css-tricks.com/interview-questions-css/
 - http://www.skilledup.com/articles/25-css-interview-questions-answers
@@ -112,7 +109,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 - https://github.com/roseperrone/interview-questions
 - https://github.com/sigmavirus24/python-interview-questions
-- https://github.com/adityapn/ProgrammingInterview
 - https://github.com/willpharaoh/interviewstreet
 - http://www.toptal.com/python/interview-questions
 - http://www.careerride.com/python-interview-questions.aspx
@@ -145,7 +141,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## PHP
 
-- https://github.com/developerquestions/php-questions
 - https://github.com/rajesh-tne/PHP-Interview
 - https://github.com/sw611983/all-php-interview-questions
 - https://github.com/Iriarte81/phpinterviewquestions/blob/master/php%20interview%20questions.docx
